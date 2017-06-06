@@ -39,11 +39,10 @@ CMYK意为Cyan（青）、Magenta（洋红）、Yellow（黄）、Key（套版�
 配色可以说是一个设计体系中最为重要的一部分，我们建议在不同的设计中尽可能地使用相同或相似的配色，这样可以有助于提高品牌辨识度。
 
 推荐网站：
+
 Adobe专业配色工具：https://color.adobe.com/zh/create/color-wheel/
- 
 
 基于Material Design强大的在线配色：https://www.materialpalette.com
- 
 
 中科院出品的中国传统配色：http://zhongguose.com/
 此网站会同时给出RGB颜色和CMYK颜色，可以搭配使用。
