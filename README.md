@@ -1,6 +1,8 @@
 # 渊文标准技术手册
 
-[https://lzmun.gitbooks.io/lz-standard-technical-manual](https://lzmun.gitbooks.io/lz-standard-technical-manual/)
+[页面手册](https://lzmun.gitbooks.io/lz-standard-technical-manual/)
+
+[项目页面](https://lzmun.github.io/LZ-Standard-Technical-Manual/)
 
 [提交反馈](https://github.com/LZMUN/LZ-Standard-Technical-Manual/issues)
 
