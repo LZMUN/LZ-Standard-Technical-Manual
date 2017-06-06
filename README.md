@@ -1,4 +1,18 @@
-lz-standard-technical-manual
+# 渊文标准技术手册
+
+[https://lzmun.gitbooks.io/lz-standard-technical-manual](https://lzmun.gitbooks.io/lz-standard-technical-manual/)
+
+[提交反馈](https://github.com/LZMUN/LZ-Standard-Technical-Manual/issues)
+
+柳州高中模拟联合国协会、渊文模拟联合国会议、渊文模拟联合国会议技术部共同拥有版权。
+
+参与编写：陈王健平、黄文添
+
+技术支持：陈王健平
+
+素材提供：苏恒
+
+---
 
 柳州高中模拟联合国协会官方邮箱：lgmun@sina.cn
 
@@ -11,3 +25,11 @@ lz-standard-technical-manual
 技术部助理 黄文添：fancy@lzmun.com
 
 技术部助理 刘许嘉翔：lio_hicasion@lzmun.com
+
+特别感谢：[sm.ms图床](sm.ms)、[Github](github.com)、[Gitbook](gitbook.com)
+
+---
+
+[渊文模拟联合国会议](www.lzmun.com)
+
+[渊文模拟联合国会议技术部](ts.lzmun.com)
