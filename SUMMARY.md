@@ -4,9 +4,7 @@
 * [字体](Font.md)
 * [颜色](Color.md)
 * [Markdown语法](Markdown.md)
-* [交互设计指南](UI.md)
-    *[iOS HIG](HIG.md)
-    *[Google Material Design](Material-Design.md)
-* [常用软件与服务](software&service.md)
+* [网页前端制作](Web-front-end.md)
+* [常用软件服务](software&service.md)
 * [关于团队合作](about-ts.md)
 
