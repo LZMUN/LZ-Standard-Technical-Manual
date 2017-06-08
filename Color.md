@@ -49,4 +49,6 @@ Adobe专业配色工具：https://color.adobe.com/zh/create/color-wheel/
 中科院出品的中国传统配色：http://zhongguose.com/
 ![屏幕截图(111).png](https://ooo.0o0.ooo/2017/06/07/59374ad588fb7.png)
 此网站会同时给出RGB颜色和CMYK颜色，可以搭配使用。
- 
+
+
+{% include 'footer.md' %}

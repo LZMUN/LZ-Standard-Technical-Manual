@@ -1,9 +1,9 @@
 # 渊文标准技术手册
 
-[查看手册](https://lzmun.gitbooks.io/lz-standard-technical-manual/) <br>
+[查看手册](https://stm.lzmun.com/) <br>
 [项目页面](https://lzmun.github.io/LZ-Standard-Technical-Manual/) <br>
 [提交反馈](https://github.com/LZMUN/LZ-Standard-Technical-Manual/issues) <br>
-[预览版本](https://lzmun.gitbooks.io/lz-standard-technical-manual/content/v/develop/)
+[预览版本](https://stm.lzmun.com/v/develop/)
 
 柳州高中模拟联合国协会、渊文模拟联合国会议共同拥有版权。<br>
 参与编写：陈王健平、黄文添 <br>
