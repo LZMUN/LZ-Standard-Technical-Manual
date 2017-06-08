@@ -1,6 +1,6 @@
 {
   "title": "渊文标准技术手册",
-  "plugins": ["todo", "collapsible-menu", "ga", "sitemap"],
+  "plugins": ["todo", "collapsible-menu", "ga"],
   "pluginsConfig": {
     "ga": {
       "token": "UA-83738559-1"
