@@ -51,4 +51,4 @@ Adobe专业配色工具：https://color.adobe.com/zh/create/color-wheel/
 此网站会同时给出RGB颜色和CMYK颜色，可以搭配使用。
 
 
-{% include '../footer.md' %}
+{% include 'footer.md' %}

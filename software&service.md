@@ -25,4 +25,4 @@ Github是以Git仓库托管商，同时也是全球最大的程序员社交平�
 渊文标准技术手册和渊文文件中心依托此服务搭建而成。
 
 
-{% include '../footer.md' %}
+{% include 'footer.md' %}

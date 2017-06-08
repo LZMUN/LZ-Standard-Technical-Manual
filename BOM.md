@@ -129,4 +129,4 @@
  
 【图】2017柳州模拟联合国大会签名版
 
-{% include '../footer.md' %}
+{% include 'footer.md' %}

@@ -88,4 +88,4 @@ Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gr
 ```
 
 
-{% include '../footer.md' %}
+{% include 'footer.md' %}

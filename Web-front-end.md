@@ -14,4 +14,4 @@ MDL是Google Material Design的网页版本，是一个轻量的前端框架。�
 官方网站：https://getmdl.io/started/
  
  
-{% include '../footer.md' %}
+{% include 'footer.md' %}
